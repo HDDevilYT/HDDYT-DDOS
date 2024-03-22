@@ -38,6 +38,6 @@ $ python2 HDDYT-DDOS.py
 Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
 
 
-After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `8080`
+After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `1808`
 
 Booom!! Your Ddos Attack Had Been Started...
