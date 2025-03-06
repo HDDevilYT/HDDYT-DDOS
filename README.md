@@ -43,3 +43,5 @@ Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`No
 After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `1808`
 
 Booom!! Your Ddos Attack Had Been Started...
+
+I Know that you are reading this my Sis And I wanna tell you something YOU ARE BAKA AND I KNOW THAT YOU DON'T HAVE BRAIN.
